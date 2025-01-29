@@ -1,6 +1,8 @@
-<h1 align="center">OrchidFoods</h1>
+<p align="center">
+  <img src="https://github.com/prasa-c/Orchid-Foods-Complete/blob/main/frontend/src/assets/logo.png" alt="Description" width="300px">
+</p>
 
-<p>Website for a local restaurant in badulla town called "OrchidFoods". <p/>
+<p>Website for a local restaurant in badulla town called "OrchidFoods". Minimalist and fully-Responsive. <p/>
 
 ## Installation
 
